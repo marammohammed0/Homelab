@@ -48,6 +48,8 @@ First of all open up Server Manager:
 
 <img width="764" height="563" alt="image" src="https://github.com/user-attachments/assets/6ced7d46-9241-4eba-9f53-c4530f360357" />
 
+- Click install then the server will reboot automatically
+
 
 
 
