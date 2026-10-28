@@ -14,6 +14,8 @@
 
 # Make a Homelab:
 
+Installing Active Directory Domain Services:
+
 First of all open up Server Manager:
 
 <img width="1026" height="768" alt="image" src="https://github.com/user-attachments/assets/40d2b998-dd4b-4401-a696-b8074b51c1f2" />
@@ -48,7 +50,14 @@ First of all open up Server Manager:
 
 <img width="764" height="563" alt="image" src="https://github.com/user-attachments/assets/6ced7d46-9241-4eba-9f53-c4530f360357" />
 
-- Click install then the server will reboot automatically
+- Click install then the server will reboot automatically then we sign in with the Administrator user
+
+- Then go to Start and look for Windows Tools:
+  
+<img width="788" height="599" alt="image" src="https://github.com/user-attachments/assets/12cf8309-13a6-4107-8be7-e5e59c0a63b6" />
+
+- 
+
 
 
 
