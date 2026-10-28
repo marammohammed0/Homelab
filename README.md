@@ -56,7 +56,14 @@ First of all open up Server Manager:
   
 <img width="788" height="599" alt="image" src="https://github.com/user-attachments/assets/12cf8309-13a6-4107-8be7-e5e59c0a63b6" />
 
-- 
+- After logging in using the user we change the IP address and DNS:
+
+<img width="497" height="640" alt="image" src="https://github.com/user-attachments/assets/58889121-2f85-4d91-98b4-edcbd5d5accc" />
+
+- Restart the machine so the new IP address and DNS is set to check in cmd used ipconfig /All command:
+
+<img width="942" height="627" alt="image" src="https://github.com/user-attachments/assets/460a90b5-d216-43e6-9dd8-06427fc8ce24" />
+
 
 
 
