@@ -64,6 +64,7 @@ First of all open up Server Manager:
 
 <img width="942" height="627" alt="image" src="https://github.com/user-attachments/assets/460a90b5-d216-43e6-9dd8-06427fc8ce24" />
 
+# Create Windows 11 client machine:
 
 
 
