@@ -66,6 +66,23 @@ First of all open up Server Manager:
 
 # Create Windows 11 client machine:
 
+- Go to Setting then Network & internet then Ethernet then click on Edit DNS server assignment:
+
+<img width="804" height="630" alt="image" src="https://github.com/user-attachments/assets/e5817c32-6df3-4c3d-8004-a3287855038e" />
+
+- Choose Manuale:
+
+<img width="490" height="625" alt="image" src="https://github.com/user-attachments/assets/f3dc6e45-406f-46eb-94f3-1b139f28471d" />
+
+- Then try pinging the Windows server from Windows 11 client to check if its working:
+
+<img width="948" height="628" alt="image" src="https://github.com/user-attachments/assets/cd6f4aa8-2307-459f-8a5e-4083740175fc" />
+
+- Join the computer to the domain go to the File Explorer right click on This PC then click Properties
+
+- Scroll down to Group or Workgroup under Computer Name tab click on Change then click Domain:
+- 
+<img width="793" height="635" alt="image" src="https://github.com/user-attachments/assets/da25e98f-5d7a-4473-ac53-22d9af14bc4a" />
 
 
 
